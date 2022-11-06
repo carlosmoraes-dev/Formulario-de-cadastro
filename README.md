@@ -32,7 +32,6 @@ Você será bem avaliado se usar:
 - usar responsividade
 - organizar e dividir bem os arquivos
 
- 
-Personal page
-@carlos.mdmorae_
-GitHub - https://github.com/Carlos-Moraes2
+- Página pessoal
+- @carlos.mdmoraes_  
+- GitHub Carlos-Moraes2
