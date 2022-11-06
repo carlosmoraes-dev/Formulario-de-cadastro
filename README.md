@@ -24,6 +24,15 @@ Um roteiro baseado em projetos. A ideia em seu princípio é simples, essa é um
 
 Ao completar, publicar no linkedin  
 
+📌 Requisitos não obrigatórios
+
+Você será bem avaliado se usar:
+
+- usar HTML semântico, como tags main, section...
+- usar responsividade
+- organizar e dividir bem os arquivos
 
  
-
+Personal page
+@carlos.mdmorae_
+GitHub - https://github.com/Carlos-Moraes2
