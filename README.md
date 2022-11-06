@@ -1,32 +1,26 @@
 # 📋 Índice
 
-- [Proposta] (#id01)
+- Proposta
 
-- [O desafio] (#id01.1)
+- O desafio
 
-- [Requisitos] (#id01.2)
+- Requisitos
 
-- [Requisitos funcionais] (#id01.2.1)
+- Requisitos funcionais
 
-- [Requisitos não funcionais] (#id01.2.2)
+- Requisitos não funcionais
 
-- [Requisitos não obrigatórios] (#id01.2.3)
+- Requisitos não obrigatórios
 
-- [Capturas de tela] (#id02)
+- Capturas de tela
 
-- [O que aprendi] (#id03)
+- O que aprendi
 
-- [Mão a obra...] (#id04)
+- Mão a obra
 
-- [Pré-requisitos] (#id05)
+- Pré-requisitos
 
-- [Procedimentos de instalação] (#id06)
-
-- [Desafios semelhantes e dicas ] (#id07)
-
-- [Autor] (#id08)
-
-# 🚀 Proposta < a  name = "id01" ></ a >
+# 🚀 Proposta 
 
 Um roteiro baseado em projetos. A ideia em seu princípio é simples, essa é uma demanda, tentando encarar como um desafio técnico e completá-lo em até 7 dias.
 
