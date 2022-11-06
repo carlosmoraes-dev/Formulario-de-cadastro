@@ -24,6 +24,14 @@ Um roteiro baseado em projetos. A ideia em seu princípio é simples, essa é um
 
 Ao completar, publicar no linkedin  
 
+🎯 Requisitos não funcionais
+
+É obrigatório a utilização de:
+
+HTML
+CSS
+fazer deploy
+
 📌 Requisitos não obrigatórios
 
 Você será bem avaliado se usar:
