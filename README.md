@@ -13,7 +13,7 @@
 - Requisitos não obrigatórios
 
 - Capturas de tela
-
+![Captura de tela 2022-11-09 204010](https://user-images.githubusercontent.com/113129034/200965408-e9d052a9-aded-4963-8b4a-b8071e6943ab.png)
 - O que aprendi
 
 # 🚀 Proposta 
