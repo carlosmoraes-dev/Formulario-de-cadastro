@@ -12,8 +12,8 @@
 
 - Requisitos não obrigatórios
 
-- Capturas de tela
-![Captura de tela 2022-11-09 204010](https://user-images.githubusercontent.com/113129034/200965408-e9d052a9-aded-4963-8b4a-b8071e6943ab.png)
+- Capturas de tela![GIF 19-11-2022 22-58-08](https://user-images.githubusercontent.com/113129034/202879152-9485373d-fbce-4e9b-a45d-63eeb9b57709.gif)
+
 - O que aprendi
 
 # 🚀 Proposta 
