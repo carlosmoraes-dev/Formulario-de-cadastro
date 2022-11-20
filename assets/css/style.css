@@ -27,7 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ac9c77d7;
+    background-color: #623af1d7;
     padding: 1rem;
 }
 
@@ -108,7 +108,7 @@ body {
 }
 
 .input-box input:hover {
-    background-color: #eeeeee75;
+    background-color: #4e101075;
 }
 
 .input-box input:focus-visible {
@@ -183,7 +183,7 @@ body {
 
 @media screen and (max-width: 1370px) {
     .container {
-        width: 90%;
+        width: 75%;
         height: auto;
     }
     .input-group {
