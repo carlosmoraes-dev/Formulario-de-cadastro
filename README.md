@@ -8,10 +8,6 @@
 
 - Requisitos funcionais
 
-- Requisitos não funcionais
-
-- Requisitos não obrigatórios
-
 - Capturas de tela![GIF 19-11-2022 22-58-08](https://user-images.githubusercontent.com/113129034/202879152-9485373d-fbce-4e9b-a45d-63eeb9b57709.gif)
 
 - O que aprendi
