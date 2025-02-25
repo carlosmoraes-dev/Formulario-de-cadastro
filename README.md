@@ -36,6 +36,10 @@ Você será bem avaliado se usar:
 - usar responsividade
 - organizar e dividir bem os arquivos
 
+-Link para sites usados no projeto:
+Imagem: https://undraw.co/illustrations
+Fonte: https://fonts.google.com/
+
 - Página pessoal
 - @carlos.mdmoraes_  
 - GitHub Carlos-Moraes2
